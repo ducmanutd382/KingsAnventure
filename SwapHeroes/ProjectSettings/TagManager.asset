@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Attack
+  - Ground
+  - ShootRange
+  - Bullet
+  - Enemy_Bullet
+  - DoorToWin
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3075563165
+    locked: 0
+  - name: Ground
+    uniqueID: 311537301
+    locked: 0
+  - name: Object
+    uniqueID: 4044512185
+    locked: 0
+  - name: Player
+    uniqueID: 3479741661
+    locked: 0
+  - name: UI
+    uniqueID: 3984747881
+    locked: 0
